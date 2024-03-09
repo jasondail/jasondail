@@ -1,4 +1,3 @@
-### Hi there 👋
 
 I'm a PhD candidate working on using Synthetic Aperture Radar to improve clearing and regrowth detection in woodlands. I'm new to Python and aim to become and expert in Python as well as have a solid knowledge of machine/deep learning for use with satellite imagery.
 
